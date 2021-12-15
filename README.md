@@ -6,6 +6,9 @@
 - [Διερμηνευτής](https://gloglossa.gr/)
 - [Σχολικό βιβλίο](http://ebooks.edu.gr/ebooks/v/pdf/8547/2560/22-0275-01_Anaptyxi-Efarmogon-se-Programmatistiko-Perivallon_G-Lykeiou-SpOikPlir_Vivlio-Mathiti/)
 
+* TOC
+{:toc}
+
 ## Σύνταξη
 
 ### Δομή προγράμματος
