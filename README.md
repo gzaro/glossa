@@ -1,4 +1,4 @@
-# ΓΛΩΣΣΑ
+# [ΓΛΩΣΣΑ](https://gzaro.github.io/glossa)
 
 ## Χρήσιμα
 
